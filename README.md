@@ -36,19 +36,23 @@
 
 # Project Screen shots:
 ### Homepage:
+![Home page](https://github.com/harishmeesala/GPS/assets/118327863/c13cad19-c957-4273-ab2a-59ba68208f69)
 
 ### About project:
+![about project](https://github.com/harishmeesala/GPS/assets/118327863/7ade465f-3209-4f70-8919-887a37d1c4df)
 
 ### Applications page:
+![apps](https://github.com/harishmeesala/GPS/assets/118327863/7985b849-360e-4444-90d7-3d26710c42ac)
 
 ### Contact us page:
+![contact us](https://github.com/harishmeesala/GPS/assets/118327863/1f9a761a-1872-4828-8cc5-024089e29c4d)
 
 ### Bot page:
+![bot](https://github.com/harishmeesala/GPS/assets/118327863/45a04644-65d0-49f0-8b46-a9170e0ca0da)
 
 ### Bot Fucntionality:
-
-
-
+![bot1](https://github.com/harishmeesala/GPS/assets/118327863/545899c6-5090-48c0-963d-4fa311a6a3f1)
+![bot2](https://github.com/harishmeesala/GPS/assets/118327863/13320310-a326-49fb-b664-fe6680a6551c)
 
 # Thank you....
 
